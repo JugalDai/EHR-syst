@@ -8,8 +8,8 @@ const users = [
 		isDoctor: true
 	},
 	{
-		name: 'Sid',
-		email: 'sid@test.com'
+		name: 'abc',
+		email: 'abc@test.com'
 	}
 ]
 
