@@ -42,17 +42,6 @@ const ServiceScreen = () => {
                 </Card.Text>
               </Card.Body>
             </Card>
-            <Card>
-              <Card.Body>
-                <Card.Title>
-                  <i className='fas fa-user-lock' />
-                </Card.Title>
-                <Card.Text>
-                  Log in to your account to see your records from anywhere at
-                  anytime.
-                </Card.Text>
-              </Card.Body>
-            </Card>
           </Col>
         </Row>
       </Container>
